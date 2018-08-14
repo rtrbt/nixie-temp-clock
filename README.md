@@ -1,5 +1,6 @@
 # nixie-temp-clock
-A modular nixie clock and thermometer based on [Exixe](https://github.com/dekuNukem/exixe)
+A modular nixie clock and thermometer based on [Exixe](https://github.com/dekuNukem/exixe).
+![The finished clock](./nixie_temp_clock.jpeg)
 
 ## Features
 - Shows temperature (in °C) and GPS-synchronized time
